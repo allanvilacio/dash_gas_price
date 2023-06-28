@@ -1,0 +1,1 @@
+Dashboard em Python utilizando a biblioteca Dash sobre o preço dos combustíveis no Brasil.
